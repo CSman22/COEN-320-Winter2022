@@ -1,5 +1,4 @@
-# SOEN341-W21 Group A7 Project
-
+# COEN 320 Winter 2022
 ## 1. Members
 Name | Github Account
 ------------ | ------------- 
