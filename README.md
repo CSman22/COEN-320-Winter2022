@@ -6,9 +6,9 @@ Name | Github Account
 Jackey Weng | CSman22 
 
 
-## 1. Objective
+## 2. Objective
 
-## 2.Description of the Project 
+## 3.Description of the Project 
 
 
 ## 4. Features
